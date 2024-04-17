@@ -10,4 +10,4 @@ REM 提交改动
 git commit -m "JVM堆区"
 
 REM 推送改动到远程仓库
-git push origin master
+git push origin main
