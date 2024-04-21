@@ -7,7 +7,7 @@ REM 添加所有改动到暂存区
 git add .
 
 REM 提交改动
-git commit -m "垃圾回收算法2"
+git commit -m "多线程相关"
 
 REM 推送改动到远程仓库
 git push origin main
