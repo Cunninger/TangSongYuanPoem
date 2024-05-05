@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "testDynamicProxy",
+            "request": "launch",
+            "mainClass": "动态代理.动态.testDynamicProxy",
+            "projectName": "TangSongYuanPoem_c20285aa"
+        },
+        {
+            "type": "java",
             "name": "ProxyDemo",
             "request": "launch",
             "mainClass": "动态代理.ProxyDemo",

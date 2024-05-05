@@ -14,3 +14,4 @@ public class StaticProxy implements Person{
         System.out.println("代理结束");
     }
 }
+
