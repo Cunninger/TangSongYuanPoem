@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "ProxyDemo",
+            "request": "launch",
+            "mainClass": "动态代理.ProxyDemo",
+            "projectName": "TangSongYuanPoem_c20285aa"
+        },
+        {
             "name": "Java",
             "type": "java",
             "request": "launch",
