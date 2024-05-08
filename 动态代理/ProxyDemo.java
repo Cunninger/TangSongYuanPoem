@@ -8,6 +8,7 @@ public class ProxyDemo {
         staticProxy.doWork();
     }
 }
+ThreadPoolExecutor
 // 目标对象 student
 // 代理对象 StaticProxy
 // 代理对象和目标对象都实现了同一个接口 Person
